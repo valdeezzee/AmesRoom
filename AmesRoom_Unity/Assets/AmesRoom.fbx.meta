@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f90f5bf97b0c06a439a45f62c8759329
-timeCreated: 1536027501
+timeCreated: 1536069369
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -17,11 +17,11 @@ ModelImporter:
     400006: Floor
     400008: FrontWall
     400010: Sidewall
-    2100000: lambert3
-    2100002: lambert4
-    2100004: lambert2
-    2100006: lambert7
-    2100008: lambert5
+    2100000: Floor2
+    2100002: Frontwall
+    2100004: Backwall2
+    2100006: Sidewall2
+    2100008: Ceiling2
     2300000: Backwall
     2300002: Ceiling
     2300004: Floor
@@ -42,53 +42,53 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert2
-    second: {fileID: 2100000, guid: 638ef656efbfe0d43b01587b8e3e6df8, type: 2}
+      name: Backwall2
+    second: {fileID: 2100000, guid: b91f32b876def0641a71ab7c36a59f4b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert3
-    second: {fileID: 2100000, guid: cd5bf27cb5b8dc648851ef5538d10248, type: 2}
+      name: Ceiling2
+    second: {fileID: 2100000, guid: 95b8c363219714141951e3a7eb16bdd2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert4
-    second: {fileID: 2100000, guid: 4a3231c644c6ef348b02a3fc5ea498e9, type: 2}
+      name: Floor2
+    second: {fileID: 2100000, guid: cc071c79d8bacb14999b86af009d6e9f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert5
-    second: {fileID: 2100000, guid: 409e96a64ac7bf04492688eedc03370e, type: 2}
+      name: Frontwall
+    second: {fileID: 2100000, guid: 29353bc7cca749f4b8a4e51976d04733, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert7
-    second: {fileID: 2100000, guid: 9844161da53fb1e4b85bd4524c9d95f5, type: 2}
+      name: Sidewall2
+    second: {fileID: 2100000, guid: f68ecc5391f3fbe4080f46da022a625d, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Backwall
-    second: {fileID: 2800000, guid: d1b64a206e3d4d5498b37340c945d38d, type: 3}
+    second: {fileID: 2800000, guid: d5d9d86cf3b2d7e4c8a789789b08cc1d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ceiling
-    second: {fileID: 2800000, guid: 788ddd16504dbad449dc70a6e71131a4, type: 3}
+    second: {fileID: 2800000, guid: 463804da66bf98049a7f19f7a46d8f6d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Floor
-    second: {fileID: 2800000, guid: 180da60bae6e7514ba77964dabe11074, type: 3}
+    second: {fileID: 2800000, guid: 87714c8a0a54ebf46ae33528b481e12d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FrontDoor
-    second: {fileID: 2800000, guid: e23d70c072c88aa41a37682d2e56691c, type: 3}
+    second: {fileID: 2800000, guid: 1ae699aa624e2a64b8a39e87ae98e80d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Sidedoor
-    second: {fileID: 2800000, guid: a2bcd7d20f1efe4478707cd7fbe5fb3e, type: 3}
+    second: {fileID: 2800000, guid: 2a55bb949281d4948984588a6ef9138f, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

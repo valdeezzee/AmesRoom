@@ -29,3 +29,6 @@ The illusion will be hard to maintain when the viewer is involved more into the 
 The Ames room is a specially modelled example where the viewer is deprived of all this (normally available) information and restricted to a monocular, motion independent, static viewpoint, which makes it almost impossible to discover the illusion without further sensory input. 
 
 
+## Implications of perception on VR
+
+As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/AmesRoom.unity
+- path: Assets/Scenes/Jon_AmesRoom 1.unity
   isLoaded: 1
   isActive: 1

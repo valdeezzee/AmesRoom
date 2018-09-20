@@ -1,25 +1,30 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Valve.VR.InteractionSystem;
 
 public class MenuController : MonoBehaviour
 {
     private SteamVR_TrackedController device;
-
+    private Hand hand;
 	void Start()
     {
-        device = GetComponent<SteamVR_TrackedController>();
-        device.MenuButtonClicked += MenuButtonClicked;
+        hand = GetComponent<Hand>();
 	}
 
     private void Update()
     {
+        if (hand.controller == null) return;
+
+        if (hand.controller.GetPressDown(SteamVR_Controller.ButtonMask.Grip))
+            MenuButtonClicked();
     }
 
-    private void MenuButtonClicked(object sender, ClickedEventArgs e)
+    private void MenuButtonClicked()
     {
         Debug.Log("Menu has been clicked!!!");
-
+        SceneManager.LoadScene("AmesRoom_Sketchup_Joe");
         //throw new System.NotImplementedException();
     }
 }

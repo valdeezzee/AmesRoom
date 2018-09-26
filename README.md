@@ -20,7 +20,7 @@ LaValle (2016) explains that the viewer, in order to estimate the size or distan
 If there is uncertainty about the size of an object, the viewer will use the distance (if known) to improve his size perception, since he can use his experience and **knowledge of objects and put them into size-distance context**. The farther objects are away, the smaller they seem. If they appear huge even being far away, the size must obviously be tremendous. 
 
 
-![Size and Distance by experience](Ames Room Readings/Huge_Rubber_Duck.jpg)
+![Size and Distance by experience](https://github.com/valdeezzee/AmesRoom/blob/master/Ames%20Room%20Readings/Huge_Rubber_Duck.jpg)
 
 This effect is strongly used by the monocular view for the Ames room, because monocular view partly impairs distance perception. Distance, up to a certain point (until distance becomes indistinguishable), is one of the additional information gained by stereo view (both eyes in use). **Binocular disparity** (LaValle, 2016), which is the different viewpoint of the eyes due to their different position on the head, results in different images on the retinas and **provides necessary cues for depth and distances**. 
 Viewing through a door peephole is a monocular activity. Therefore, it is easy and natural to utilize the geometric figures and layout of the Ames room as a “descriptive system” (Runeson, 1988) that allows the description and understanding of the spatial configuration of the DRI viewed through the hole. The context is utilized for the (monocular) viewer as a description of the actual physical reality, because it is not possible to distinguish distance and depth. 

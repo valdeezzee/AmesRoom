@@ -896,7 +896,16 @@ namespace Valve.VR.InteractionSystem
 			}
 
 			Teleport.Player.Send( pointedAtTeleportMarker );
-		}
+
+            // Modified
+            if (teleportPoint != null)
+            {
+                if (teleportPoint.setRoom == true)
+                {
+                    RoomProperties.instance.SetRoomLocation();
+                }
+            }
+        }
 
 
 		//-------------------------------------------------

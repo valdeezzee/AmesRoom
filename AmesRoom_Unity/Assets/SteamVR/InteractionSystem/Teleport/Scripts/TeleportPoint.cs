@@ -30,6 +30,9 @@ namespace Valve.VR.InteractionSystem
 		public Color titleLockedColor;
 		public bool playerSpawnPoint = false;
 
+        // Modified
+        public bool setRoom = false;
+
 		//Private data
 		private bool gotReleventComponents = false;
 		private MeshRenderer markerMesh;

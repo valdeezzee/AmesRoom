@@ -49,4 +49,4 @@ Size and distance of objects are also determined in relation to each other. Visu
 
 As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 
 
-
+What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??

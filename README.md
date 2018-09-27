@@ -41,15 +41,12 @@ Depth perception is the visual ability to perceive the world in three dimensions
 
 Depth perception relies on the convergence of both eyes upon a single object, the relative differences between the shape and size of the images on each retina, the relative size of objects in relation to each other, and other cues such as texture and constancy. For example, shape constancy allows the individual to see an object as a constant shape from different angles, so that each eye is recognizing a single shape and not two distinct images. When the input from both eyes is compared, stereopsis, or the impression of depth, occurs.
 
-As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 
-Relative Size of Objects
+Picture of Ebbinghaus Illusion
 
 Ebbinghaus illusion: The Ebbinghaus illusion illustrates how the perception of size is altered by the relative sizes of other objects. The two center circles are the same size, though they may be perceived to be different sizes.
 
-Size and distance of objects are also determined in relation to each other. Visual cues (for instance, far-away objects appearing smaller and near objects appearing larger) develop in the early years of life. Convergence upon a single point is another visual cue that provides information about distance. As objects move farther away into the distance, they converge into a single point. An example of this can be seen in the image of train tracks disappearing into the distance.
+Size and distance of objects are also determined in relation to each other. Visual cues (for instance, far-away objects appearing smaller and near objects appearing larger) develop in the early years of life. Convergence upon a single point is another visual cue that provides information about distance. As objects move farther away into the distance, they converge into a single point. Optical illusions, such as the Ames Room, show how our perception of size is altered by the relative sizes of other objects around us, as two perfectly equal figures have seemingly significant different sizes due to their differnet distance, which is camouflaged by the illusion.
 
-Optical illusions, such as the Ebbinghaus illusion, show how our perception of size is altered by the relative sizes of other objects around us. In the Ebbinghaus illusion, the size of the center circles is the same, but looks different due to the size of the surrounding circles.
+As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 
 
-Depth from Motion
-When an object moves toward an observer, the retinal projection of the object expands over a period of time, which leads to the perception of movement in a line toward the observer. This change in stimulus enables the observer not only to see the object as moving, but to perceive the distance of the moving object. This is useful when you cross the street: as you watch a car come toward you, your brain uses the change in size projected on your retina to determine how far away it is.
 

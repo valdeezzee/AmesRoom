@@ -50,4 +50,34 @@ This illustrates that size and distance of objects are also determined in relati
 
 As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 
 
-What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??
+((What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
+
+As a baseline we established the Ames Room DRI in a Virtual Reality Environment.
+The following Soft- and Hardware was used:
+XXXXX... VIVE, Version
+XXXXX... Unity 2017.4.1f
+XXXXX... VIVE controller, Version
+....
+The software model of the Ames Room is attached in the XXXXX folder (LINK)
+There are several experiments conducted #, based on the VR Ames Room layout. 
+
+1.) Can we reconstruct the Ames Room in VR?
+    - How much work is involved?
+    - Is it "realistic"?
+    
+2.) As movement can counter spacial based illusions like the Ames Room DRI, how will interacting with the room by throwing a moving object (here: ball) have an effect of the overall perception within the construct?
+    - will one ball be sufficient to reveal the illusion?
+      + thrown into the "long" corner
+      + thrown into the "short" corner of the room
+      + thrown into the middle ("between" the two (equally sized) figures) 
+    - will two balls be sufficient (long AND short corner)
+
+3.) How will "resizing" the room affect the perception of the viewer from the predetermined, optimal viewpoint?
+    - viewing into the room after each resizing
+    - resizing the room while inside VR/the room/ on the viewpoint
+
+4.) OPTIONAL: Can we construct several (>=2) rooms in order to change position from one to the other predefined optimal viewpoints?
+    - Is there a mathematical solution/parameters to the construction?
+    - How will it be perceived by the viewer inside VR?
+    - will experiments (2/3) be repeatable with same/similar results?
+

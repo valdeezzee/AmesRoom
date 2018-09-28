@@ -42,7 +42,7 @@ Our experiments and especially the Ames Room DRI are focussing on fooling the de
 
 Depth perception is the visual ability to perceive the world in three dimensions (in contrast to 2D pictures), coupled with the ability to estimate how far away an object is. The estimated size and distance of an object are obtained through both monocular and binocular cues (as stated above). But monocular vision is very poor at determining depth compared to binocular vision. When an image is projected onto a single retina, above mentioned cues about the relative size of the object compared to the environment (and its own experience/knowledge) and other (familiar) objects are obtained. In binocular vision, depth perception relies on the convergence of both eyes upon a single object, the relative differences between the shape and size of the images on each eye/retina these relative sizes (and angles) of each eye are compared. Other cues such as texture and constancy add to the overall information perception. The perceived angle difference between each eye becomes smaller and smaller the further away the object is located. 
 
-Picture of Ebbinghaus Illusion
+![Ebbinghaus Illusion](https://github.com/valdeezzee/AmesRoom/blob/master/Ames%20Room%20Readings/1200px-Mond-vergleich.svg.png)
 
 The Ebbinghaus illusion demonstrates how the perception relies upon context and comparison. The perceived size of an object is altered by the relative sizes of other, nerby objects. Even though the two center circles are of the same size, they seem to be of different sizes due to their surrounding area (context).
 

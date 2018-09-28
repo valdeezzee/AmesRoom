@@ -55,13 +55,13 @@ As LaValle (2016) describes, VR itself can be considered as a grand optical illu
 As a baseline we established the Ames Room DRI in a Virtual Reality Environment.
 The following Soft- and Hardware was used:
 
-XXXXX... VIVE, Version
+    - XXXXX... VIVE, Version
 
-XXXXX... Unity 2017.4.1f
+    - XXXXX... Unity 2017.4.1f
 
-XXXXX... VIVE controller, Version
+    - XXXXX... VIVE controller, Version
 
-....
+    - ....
 
 The software model of the Ames Room is attached in the XXXXX folder (LINK)
 

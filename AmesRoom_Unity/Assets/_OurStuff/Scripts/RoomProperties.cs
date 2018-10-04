@@ -39,7 +39,7 @@ public class RoomProperties : MonoBehaviour {
                 break;
         }
 
-        SetRoomLocation();
+        //SetRoomLocation();
     }
 
     public void SetRoomLocation()

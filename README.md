@@ -62,7 +62,7 @@ The following Soft- and Hardware was used:
 
     - ....
 
-The software model of the Ames Room is attached in the XXXXX folder (LINK)
+The software models of the different Ames Room set-ups are attached in the XXXXX folder (LINK)
 
 
 

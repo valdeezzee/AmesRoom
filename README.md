@@ -81,30 +81,64 @@ A.) Depth perception in an Ames Room in VR. Distance estimation with the help of
 > This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
     
-> - Set up:
+Set up:
     
->> + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
+> + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
 
->> + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
+> + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
         
->> + The ball will fall through the floor and not bounce in order to hide the specifications of the (tilted/angled) room floor.
+> + The ball will fall through the floor and not bounce in order to hide the specifications of the (tilted/angled) room floor.
     
->> + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
+> + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
         
->> + The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
+> + The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
         
         
-> - Objectives:
+Objectives:
 
->> + Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
->> + It is a two-stepped approach, im which first, he has to discover that the distances are not the same by the use of a moving and manipulateable object (ball), which offers additional cues (necessary strength, flight time of the ball, trajectory...). 
->> + Secondly, the experiemt aims at his ability to conclude that the (expected) different freethrow results and effort is indeed the result of a manipulated perception of the room. 
+> + Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
+> + It is a two-stepped approach, im which first, he has to discover that the distances are not the same by the use of a moving and manipulateable object (ball), which offers additional cues (necessary strength, flight time of the ball, trajectory...). 
+> + Secondly, the experiemt aims at his ability to conclude that the (expected) different freethrow results and effort is indeed the result of a manipulated perception of the room. 
 
-> - Method:
+Method:
 
->> + The participants will be given an introduction into the VR hardware and the operation of the handhold controllers. 
+> -The participant can speak out about his experiences and his impression of the experiment while in VR. After the experiement a questionnaire will be given to quantify certain variables. The questions of the questionnaire will be quantitative, the verbal questions and responses will be of qualitative nature. As this is the first evolution and design, we are not aware of all information that could be gained by our experiment. 
+
+> -We consider the presented approach as a trial run to verify and further validate our design of the experiment.
 
 
+Procedure:
+
+> + The participants will be given an introduction into the VR hardware and the operation with the hand-hold controllers. 
+
+> + No hint will be provided that the presented room could be anything other that it appears.
+
+> + The participant will have limited, but sufficient time (tbd) to familiarize with the setting, equipment and throwing of the ball.
+
+> + After familiarization phase, the participant will be briefed on the task to throw the given number balls into the baskets.
+
+> + The number of achieved baskets will be counted.
+
+> + Questions from a questionnaire will be asked concerning several aspects of the simulation and tasks (Questionnaire, see below).
+
+
+Questionnaire:
+
+The questions can be answered with yes/no, unless stated otherwise.
+
+- Perception of Immersion into a VR environment
+
+> I had the feeling of being inside a virtual, 3D room/environment.
+> I had the feeling of a 2D/picture-like presentation only.
+> The environment felt like it could be touched.
+> It seemed realistic.
+> It almost made me forget that I am in a real room/laboratory.
+> 
+
+- 
+
+> The ball-throwing procedure is easy to understand 
+> 
 
 ((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 

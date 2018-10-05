@@ -64,7 +64,7 @@ The following Soft- and Hardware was used:
 
 The software model of the Ames Room is attached in the XXXXX folder (LINK)
 
-((What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
+
 
 As described above, our main effort in this course so far and specifically with the Ames Room DRI is the process of human perception in conjunction with Virtual Reality technology. 
 We focus our questions and experiment on how the Ames Room is perceived and which cues can be perceived and which cues and/or how many are necessary to "see through" the illusion.
@@ -72,27 +72,36 @@ We focus our questions and experiment on how the Ames Room is perceived and whic
 We propose 3 experiments to demonstrate the limits of perception within VR. 
 
 Experiment: 
-A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity.
+A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity. The question will be wether a simple VR environment delivers sufficient cues for a reliable depth perception, combined with the specifications of a DRI, in this case the Ames Room.  
 
 > - This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
 > - Set up:
     
 >> + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
+
 >> + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
         
->> + The ball will fall through the floor and not bounce in order to hide the specifications of the romm (tilted/angled) floor.
+>> + The ball will fall through the floor and not bounce in order to hide the specifications of the (tilted/angled) room floor.
     
 >> + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
         
->> + The participant will have to throw 10 (tdc) balls at each basket. all other settings will remain the same.
+>> + The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
         
+> - Objectives:
+
+>> + Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
+>> + It is a two-stepped approach, im which first, he has to discover that the distances are not the same by the use of a moving and manipulateable object (ball), which offers additional cues (necessary strength, flight time of the ball, trajectory...). 
+>> + Secondly, the experiemt aims at his ability to conclude that the (expected) different freethrow results and effort is indeed the result of a manipulated perception of the room. 
+
+> - Method:
+
+>> + 
 
 
 
+((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 
-
-What experiment did we set up, what do we want to measure, how do we measure it, how do we document it?
     
     
 2.) As movement can counter spacial based illusions like the Ames Room DRI, how will interacting with the room by throwing a moving object (here: ball) have an effect of the overall perception within the construct?

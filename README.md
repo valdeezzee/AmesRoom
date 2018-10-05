@@ -55,10 +55,14 @@ As a baseline for our experimetns, we established the Ames Room as a DRI in a Vi
 The following Soft- and Hardware was used:
 
 > - XXXXX... VIVE, Version
-
-> - XXXXX... Unity 2017.4.1f
+>> - resolution: XXXX
+>> - tracking via... XXXX
 
 > - XXXXX... VIVE controller, Version
+
+> - XXXXX... Unity 2017.4.1f
+> - STEAM XXXXX
+
 
     - ....
 
@@ -74,7 +78,8 @@ We propose 3 experiments to demonstrate the limits of perception within VR.
 Experiment: 
 A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity. The question will be wether a simple VR environment delivers sufficient cues for a reliable depth perception, combined with the specifications of a DRI, in this case the Ames Room.  
 
-> - This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
+> This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
+    
     
 > - Set up:
     
@@ -88,6 +93,7 @@ A.) Depth perception in an Ames Room in VR. Distance estimation with the help of
         
 >> + The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
         
+        
 > - Objectives:
 
 >> + Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
@@ -96,7 +102,7 @@ A.) Depth perception in an Ames Room in VR. Distance estimation with the help of
 
 > - Method:
 
->> + 
+>> + The participants will be given an introduction into the VR hardware and the operation of the handhold controllers. 
 
 
 

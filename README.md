@@ -124,21 +124,33 @@ Procedure:
 
 Questionnaire:
 
-The questions can be answered with yes/no, unless stated otherwise.
+The questions can be answered with yes/no, unless stated otherwise. The questions will be answered one after the other without going back to previous questions.
 
-- Perception of Immersion into a VR environment
+> Perception of Immersion into a VR environment
 
-> I had the feeling of being inside a virtual, 3D room/environment.
-> I had the feeling of a 2D/picture-like presentation only.
-> The environment felt like it could be touched.
-> It seemed realistic.
-> It almost made me forget that I am in a real room/laboratory.
-> 
+> - I had the feeling of being inside a virtual, 3D room/environment.
+> - I had the feeling of a 2D/picture-like presentation only.
+> - The environment felt like it could be touched.
+> - It seemed realistic.
+> - It almost made me forget that I am in a real room/laboratory.
 
-- 
+> Operating in VR
 
-> The ball-throwing procedure is easy to understand 
-> 
+> - The ball-throwing procedure is easy to understand 
+> - I had no problems operating with the hand-held controllers.
+> - It was hard to do repeatable ball shots on the same basket.
+
+> Depth Perception:
+
+> - The depth impression was realistic.
+> - The presented objects were realistic in size.
+> - The presented objects were realistic in behavior.
+> - I was able to roughly estime the distance from me towards the baskets.
+> - It was equally hard to score on both baskets. 
+> - Both baskets had the same distance to me.
+> - The left basket was roughly ___ ft away (insert estimated distance).
+> - The right basket was roughly ___ ft away (insert estimated distance).
+> - 
 
 ((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 

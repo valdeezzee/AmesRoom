@@ -158,9 +158,9 @@ Documentation:
 
 > - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
 > - The questionnaire will be performed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
-
-
-
+ 
+ 
+ 
 Experiment (B): 
 
 Depth perception and overall perception of an Ames Room in VR. After the "Distance estimation experiment" (Experiment A), the participant will be familiar with the concept of an DRI. The question will be wether our a simple Ames Room can be distinguished from a normal, regular room that looks like the Ames Room. It is an experiment to validate the integrity of our construct and get an insight on how participant perceive different VR constructs after being aware of the possible illusions. 
@@ -203,10 +203,9 @@ Documentation:
 
 > - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
 > - The questionnaire will be performed by the experiment personell and the answers (to the three options and what gave it away) will be written directly on the questionnaire. 
-
-
-
-
+ 
+ 
+ 
 Experiment (C): 
 
 Depth perception and overall perception in VR. The concept to prove with the experiment is valid for any VR construct if the same prerequisites are adhered to. The question will be wether a change in size of a (simple Ames) Room can be recognized while being in VR. It is an experiment to validate the assumption that VR is not detailed enough and technically not capable to deliver the necessary cues  for true depth perception. 

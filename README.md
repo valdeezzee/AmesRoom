@@ -46,13 +46,12 @@ Depth perception is the visual ability to perceive the world in three dimensions
 
 The Ebbinghaus illusion demonstrates how the perception relies upon context and comparison. The perceived size of an object is altered by the relative sizes of other, nerby objects. Even though the two center circles are of the same size, they seem to be of different sizes due to their surrounding area (context).
 
-This illustrates that size and distance of objects are also determined in relation to each other. Visual cues (for instance, far-away objects appearing smaller and near objects appearing larger) develop in the early years of life and are vital in our perception. Convergence upon a single point is another visual cue that provides information about distance. As objects move farther away into the distance, they converge into a single point. Optical illusions, such as the Ames Room, show how our perception of size is altered by the relative sizes of other objects around us, as two perfectly equal figures have seemingly significant different sizes due to their differenet distances, which is camouflaged by the illusion.
+This illustrates that size and distance of objects are also determined in relation to each other. Visual cues (for instance, far-away objects appearing smaller and near objects appearing larger) develop in the early years of life and are vital in our perception. Convergence upon a single point is another visual cue that provides information about distance. As objects move farther away into the distance, they converge into a single point. Optical illusions, such as the Ames Room, show how our perception of size and depth is altered by the relative sizes of other objects around us, as two perfectly equal figures have seemingly significant different sizes due to their differenet distances, which is camouflaged by the illusion.
 
 As LaValle (2016) describes, VR itself can be considered as a grand optical illusion. 
 
-((What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 
-As a baseline we established the Ames Room DRI in a Virtual Reality Environment.
+As a baseline for our experimetns, we established the Ames Room as a DRI in a Virtual Reality Environment.
 The following Soft- and Hardware was used:
 
     - XXXXX... VIVE, Version
@@ -65,14 +64,36 @@ The following Soft- and Hardware was used:
 
 The software model of the Ames Room is attached in the XXXXX folder (LINK)
 
+((What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 
-There are several experiments conducted #, based on the VR Ames Room layout. 
+As described above, our main effort in this course so far and specifically with the Ames Room DRI is the process of human perception in conjunction with Virtual Reality technology. 
+We focus our questions and experiment on how the Ames Room is perceived and which cues can be perceived and which cues and/or how many are necessary to "see through" the illusion.
 
-1.) Can we reconstruct the Ames Room in VR?
+We propose 3 experiments to demonstrate the limits of perception within VR. 
 
-    - How much work is involved?
+Experiment: 
+A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity.
+
+    - This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
-    - Is it "realistic"?
+    - Set up:
+    
+        + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
+        + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
+        
+        + The ball will fall through the floor and not bounce in order to hide the specifications of the romm (tilted/angled) floor.
+    
+        + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
+        
+        + The participant will have to throw 10 (tdc) balls at each basket. all other settings will remain the same.
+        
+
+
+
+
+
+What experiment did we set up, what do we want to measure, how do we measure it, how do we document it?
+    
     
 2.) As movement can counter spacial based illusions like the Ames Room DRI, how will interacting with the room by throwing a moving object (here: ball) have an effect of the overall perception within the construct?
 

@@ -82,7 +82,7 @@ Depth perception in an Ames Room in VR. Distance estimation with the help of a m
 This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
     
-Set up:
+Set-up:
     
 > + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
 
@@ -157,9 +157,9 @@ The questions can be answered with yes/no, unless stated otherwise. The question
 Documentation:
 
 > - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
-> - The questionnaire will be perormed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
+> - The questionnaire will be performed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
 
-((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
+
 
 Experiment (B): 
 
@@ -169,11 +169,11 @@ Depth perception and overall perception of an Ames Room in VR. After the "Distan
 This experiment will simply consits of 2 seemingly equal rooms, which the participant has to observe and make a decision which one is the DRI and which one is the "normal" room.
     
     
-Set up:
+Set-up:
     
 > + The participant will get 1 minute each (time tbd) to view/observe an Ames Room and  normal room. 
 > + There is only one detail which will be different in order to better distinguish between both after the observation. 
-> + After they have ssen both, the get another minute (time tbd) to verify their observations. 
+> + After they have seen both, the get another minute (time tbd) each to verify their observations. 
 
 
 Objectives:
@@ -190,90 +190,58 @@ Method:
 >> + Room 2
 >> + I dont know.
 
-
-
-
-
-
-
+- The participants then have to explain their decision/answer. This answer will also be recorded and analyzed. This will lead to either an improvement of the room or to the development of an quatitative questionnaire which incooperates the indentified (and other) mistakes in the construction. 
 
 Procedure:
 
-> + The participants will be given an introduction into the VR hardware and the operation with the hand-hold controllers. 
+> + The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
 
-> + No hint will be provided that the presented room could be anything other that it appears.
+> + The Set-up will be explained (time) and that therre will be 2 seemingly equal, but different rooms.
 
-> + The participant will have limited, but sufficient time (tbd) to familiarize with the setting, equipment and throwing of the ball.
-
-> + After familiarization phase, the participant will be briefed on the task to throw the given number balls into the baskets.
-
-> + The number of achieved baskets will be counted.
-
-> + Questions from a questionnaire will be asked concerning several aspects of the simulation and tasks (Questionnaire, see below).
-
-
-Questionnaire:
-
-The questions can be answered with yes/no, unless stated otherwise. The questions will be answered one after the other without going back to previous questions.
-
-> Perception of Immersion into a VR environment
-
-> - I had the feeling of being inside a virtual, 3D room/environment.
-> - I had the feeling of a 2D/picture-like presentation only.
-> - The environment felt like it could be touched.
-> - It seemed realistic.
-> - It almost made me forget that I am in a real room/laboratory.
-
-> Operating in VR
-
-> - The ball-throwing procedure is easy to understand 
-> - I had no problems operating with the hand-held controllers.
-> - It was hard to do repeatable ball shots on the same basket.
-
-> Depth Perception:
-
-> - The depth impression was realistic.
-> - The presented objects were realistic in size.
-> - The presented objects were realistic in behavior.
-> - I was able to roughly estime the distance from me towards the baskets.
-> - It was equally hard to score on both baskets. 
-> - Both baskets had the same distance to me.
-> - The left basket was roughly ___ ft away (insert estimated distance).
-> - The right basket was roughly ___ ft away (insert estimated distance).
-> - The room clearly had some unusual spacial traits.
 
 Documentation:
 
 > - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
-> - The questionnaire will be perormed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
+> - The questionnaire will be performed by the experiment personell and the answers (to the three options and what gave it away) will be written directly on the questionnaire. 
+
+
+
+
+Experiment (C): 
+
+Depth perception and overall perception in VR. The concept to prove with the experiment is valid for any VR construct if the same prerequisites are adhered to. The question will be wether a change in size of a (simple Ames) Room can be recognized while being in VR. It is an experiment to validate the assumption that VR is not detailed enough and technically not capable to deliver the necessary cues  for true depth perception. 
+
+This experiment will consits of the Ames Rooms, which the participant will observe while the room will be resized (significantly smaller/larger). 
+
+    
+Set-up:
+    
+> + The participant will observe the Ames Room. 
+> + The size of the room will be changed while the participant is observing it.
+
+
+Objectives:
+
+> + Our main objective in this experiment is the validation/demonstration of the perception theory (see above in the theretical description of perception). 
+
+Method:
+
+- The participant is aware of the intended changes and he will have to look for any changes. 
+- As in all Ames Room experiments, the vienwing angle/place to observe from has to be used, no movement  other than the head is permissible.
+- The participants will speak as sson as he senses change. 
+
+Procedure:
+
+> + The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
+
+> + The Set-up will be explained (resizing) and the resizing will be introduced short after the participant is in VR and ready.
+
+
+Documentation:
+
+> - The communication during the whole experiment is recorded. The expected result is no perceived change.
 
 ((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 
-        
-    
-2.) As movement can counter spacial based illusions like the Ames Room DRI, how will interacting with the room by throwing a moving object (here: ball) have an effect of the overall perception within the construct?
 
-    - will one ball be sufficient to reveal the illusion?
-    
-      + thrown into the "long" corner
-      
-      + thrown into the "short" corner of the room
-      
-      + thrown into the middle ("between" the two (equally sized) figures) 
-      
-    - will two balls be sufficient (long AND short corner)
-
-3.) How will "resizing" the room affect the perception of the viewer from the predetermined, optimal viewpoint?
-
-    - viewing into the room after each resizing
-    
-    - resizing the room while inside VR/the room/ on the viewpoint
-
-4.) OPTIONAL: Can we construct several (>=2) rooms in order to change position from one to the other predefined optimal viewpoints?
-
-    - Is there a mathematical solution/parameters to the construction?
-    
-    - How will it be perceived by the viewer inside VR?
-    
-    - will experiments (2/3) be repeatable with same/similar results?
 

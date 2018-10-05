@@ -54,11 +54,11 @@ As LaValle (2016) describes, VR itself can be considered as a grand optical illu
 As a baseline for our experimetns, we established the Ames Room as a DRI in a Virtual Reality Environment.
 The following Soft- and Hardware was used:
 
-    - XXXXX... VIVE, Version
+> - XXXXX... VIVE, Version
 
-    - XXXXX... Unity 2017.4.1f
+> - XXXXX... Unity 2017.4.1f
 
-    - XXXXX... VIVE controller, Version
+> - XXXXX... VIVE controller, Version
 
     - ....
 
@@ -74,18 +74,18 @@ We propose 3 experiments to demonstrate the limits of perception within VR.
 Experiment: 
 A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity.
 
-    - This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
+> - This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
-    - Set up:
+> - Set up:
     
-        + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
-        + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
+>> + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
+>> + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
         
-        + The ball will fall through the floor and not bounce in order to hide the specifications of the romm (tilted/angled) floor.
+>> + The ball will fall through the floor and not bounce in order to hide the specifications of the romm (tilted/angled) floor.
     
-        + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
+>> + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
         
-        + The participant will have to throw 10 (tdc) balls at each basket. all other settings will remain the same.
+>> + The participant will have to throw 10 (tdc) balls at each basket. all other settings will remain the same.
         
 
 

@@ -73,12 +73,13 @@ The software models of the different Ames Room set-ups are attached in the XXXXX
 As described above, our main effort in this course so far and specifically with the Ames Room DRI is the process of human perception in conjunction with Virtual Reality technology. 
 We focus our questions and experiment on how the Ames Room is perceived and which cues can be perceived and which cues and/or how many are necessary to "see through" the illusion.
 
-We propose 3 experiments to demonstrate the limits of perception within VR. 
+We propose 3 experiments (A-C) to demonstrate the limits of perception within VR. 
 
-Experiment: 
-A.) Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity. The question will be wether a simple VR environment delivers sufficient cues for a reliable depth perception, combined with the specifications of a DRI, in this case the Ames Room.  
+Experiment (A): 
 
-> This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
+Depth perception in an Ames Room in VR. Distance estimation with the help of a moving object and controllable hand-eye activity. The question will be wether a simple VR environment delivers sufficient cues for a reliable depth perception, combined with the specifications of a DRI, in this case the Ames Room.  
+
+This experiment will give the participant the possibility to play freeshot-basketball in VR, but the playfield will be an Ames Room DRI. 
     
     
 Set up:
@@ -102,9 +103,10 @@ Objectives:
 
 Method:
 
-> -The participant can speak out about his experiences and his impression of the experiment while in VR. After the experiement a questionnaire will be given to quantify certain variables. The questions of the questionnaire will be quantitative, the verbal questions and responses will be of qualitative nature. As this is the first evolution and design, we are not aware of all information that could be gained by our experiment. 
+- The participant can speak out about his experiences and his impression of the experiment while in VR. After the experiement a questionnaire will be given to quantify certain variables. The questions of the questionnaire will be quantitative, the verbal questions and responses during the exüeriment will be of qualitative nature, significant details concerning the perception will have to be noted and further analyzed. 
+- As this is the first evolution and design, we are not aware of all information that could be gained by our experiment. 
 
-> -We consider the presented approach as a trial run to verify and further validate our design of the experiment.
+- We consider the presented approach as a trial run to verify and further validate our design of the experiment.
 
 
 Procedure:
@@ -150,11 +152,104 @@ The questions can be answered with yes/no, unless stated otherwise. The question
 > - Both baskets had the same distance to me.
 > - The left basket was roughly ___ ft away (insert estimated distance).
 > - The right basket was roughly ___ ft away (insert estimated distance).
-> - 
+> - The room clearly had some unusual spacial traits.
+
+Documentation:
+
+> - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
+> - The questionnaire will be perormed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
 
 ((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
 
+Experiment (B): 
+
+Depth perception and overall perception of an Ames Room in VR. After the "Distance estimation experiment" (Experiment A), the participant will be familiar with the concept of an DRI. The question will be wether our a simple Ames Room can be distinguished from a normal, regular room that looks like the Ames Room. It is an experiment to validate the integrity of our construct and get an insight on how participant perceive different VR constructs after being aware of the possible illusions. 
+
+
+This experiment will simply consits of 2 seemingly equal rooms, which the participant has to observe and make a decision which one is the DRI and which one is the "normal" room.
     
+    
+Set up:
+    
+> + The participant will get 1 minute each (time tbd) to view/observe an Ames Room and  normal room. 
+> + There is only one detail which will be different in order to better distinguish between both after the observation. 
+> + After they have ssen both, the get another minute (time tbd) to verify their observations. 
+
+
+Objectives:
+
+> + Our main objective in this experiment is the validation of our Ames Room construct. Can it be distinguished in direct comparison to a normal, equally looking room. 
+> + What are the cues that gave the DRI away, if any. 
+
+Method:
+
+- The participant can speak out about his experiences and his impression of the rooms while in VR. 
+- After the experiment, the participant will have to decide which room was the DRI, There are three options:
+
+>> + Room 1
+>> + Room 2
+>> + I dont know.
+
+
+
+
+
+
+
+
+Procedure:
+
+> + The participants will be given an introduction into the VR hardware and the operation with the hand-hold controllers. 
+
+> + No hint will be provided that the presented room could be anything other that it appears.
+
+> + The participant will have limited, but sufficient time (tbd) to familiarize with the setting, equipment and throwing of the ball.
+
+> + After familiarization phase, the participant will be briefed on the task to throw the given number balls into the baskets.
+
+> + The number of achieved baskets will be counted.
+
+> + Questions from a questionnaire will be asked concerning several aspects of the simulation and tasks (Questionnaire, see below).
+
+
+Questionnaire:
+
+The questions can be answered with yes/no, unless stated otherwise. The questions will be answered one after the other without going back to previous questions.
+
+> Perception of Immersion into a VR environment
+
+> - I had the feeling of being inside a virtual, 3D room/environment.
+> - I had the feeling of a 2D/picture-like presentation only.
+> - The environment felt like it could be touched.
+> - It seemed realistic.
+> - It almost made me forget that I am in a real room/laboratory.
+
+> Operating in VR
+
+> - The ball-throwing procedure is easy to understand 
+> - I had no problems operating with the hand-held controllers.
+> - It was hard to do repeatable ball shots on the same basket.
+
+> Depth Perception:
+
+> - The depth impression was realistic.
+> - The presented objects were realistic in size.
+> - The presented objects were realistic in behavior.
+> - I was able to roughly estime the distance from me towards the baskets.
+> - It was equally hard to score on both baskets. 
+> - Both baskets had the same distance to me.
+> - The left basket was roughly ___ ft away (insert estimated distance).
+> - The right basket was roughly ___ ft away (insert estimated distance).
+> - The room clearly had some unusual spacial traits.
+
+Documentation:
+
+> - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
+> - The questionnaire will be perormed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
+
+((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
+
+        
     
 2.) As movement can counter spacial based illusions like the Ames Room DRI, how will interacting with the room by throwing a moving object (here: ball) have an effect of the overall perception within the construct?
 

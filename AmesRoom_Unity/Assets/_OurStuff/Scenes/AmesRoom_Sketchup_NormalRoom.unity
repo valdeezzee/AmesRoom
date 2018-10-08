@@ -2270,6 +2270,10 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300190, guid: 77b5cda63651e3a4586d1dcfc2f89a86, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fe95893ca149d414687155123a7c4fcf, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 77b5cda63651e3a4586d1dcfc2f89a86, type: 3}
   m_IsPrefabParent: 0
@@ -3235,7 +3239,7 @@ Transform:
   - {fileID: 515097324}
   - {fileID: 613861057}
   m_Father: {fileID: 1825284449}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &962784783
 GameObject:
@@ -5882,9 +5886,9 @@ Transform:
   - {fileID: 1795173099}
   - {fileID: 403326281}
   - {fileID: 309452149}
+  - {fileID: 960943955}
   - {fileID: 139611339}
   - {fileID: 755772254}
-  - {fileID: 960943955}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

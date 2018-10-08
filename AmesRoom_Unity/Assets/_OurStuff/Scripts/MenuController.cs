@@ -42,7 +42,7 @@ public class MenuController : MonoBehaviour
     private void MenuButtonClicked()
     {
         Debug.Log("Menu has been clicked!!!");
-        SceneManager.LoadScene("AmesRoom_Sketchup_Joe2");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         //throw new System.NotImplementedException();
     }
 }

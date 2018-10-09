@@ -54,7 +54,8 @@ As LaValle (2016) describes, VR itself can be considered as a grand optical illu
 As a baseline for our experimetns, we established the Ames Room as a DRI in a Virtual Reality Environment.
 The following Soft- and Hardware was used:
 
-- XXXXX... VIVE, Version
+Hardware:
+- Headset: LHR-31C144F7 Headset Vive. MV HTC
   - resolution: XXXX
   - tracking via... XXXX
 

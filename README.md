@@ -56,11 +56,11 @@ The following Soft- and Hardware was used:
 
 
 Hardware:
-- Headset: LHR-31C144F7 Headset Vive. MV HTC
+- Headset: LHR-31C144F7 HTC Vive, 
 
 Software:
 - Unity 2017.4.1f
-- STEAM XXXXX
+- STEAM Version 1537309452, STEAM VR date: 2018-09-18
 
 
 The software models of the different Ames Room set-ups are attached in the respective folders. For more detailed information on the set-up, please review "steamvr_report.txt" in the ReadMe-folder above. 

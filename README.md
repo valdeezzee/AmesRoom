@@ -63,7 +63,7 @@ Software:
 - STEAM XXXXX
 
 
-The software models of the different Ames Room set-ups are attached in the respective folders. For more detail, please review Steam-Report.txt 
+The software models of the different Ames Room set-ups are attached in the respective folders. For more detailed information on the set-up, please review "steamvr_report.txt" above. 
 
 As described above, our main effort in this course so far and specifically with the Ames Room DRI is the process of human perception in conjunction with Virtual Reality technology. 
 We focus our questions and experiment on how the Ames Room is perceived and which cues can be perceived and which cues and/or how many are necessary to "see through" the illusion.

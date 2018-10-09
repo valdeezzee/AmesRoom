@@ -58,7 +58,7 @@ namespace Valve.VR.InteractionSystem
 			}
 
 			Rigidbody rb = GetComponent<Rigidbody>();
-			rb.maxAngularVelocity = 50.0f;
+			rb.maxAngularVelocity = 500.0f;
 		}
 
 

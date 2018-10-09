@@ -54,21 +54,17 @@ As LaValle (2016) describes, VR itself can be considered as a grand optical illu
 As a baseline for our experimetns, we established the Ames Room as a DRI in a Virtual Reality Environment.
 The following Soft- and Hardware was used:
 
-> - XXXXX... VIVE, Version
->> - resolution: XXXX
->> - tracking via... XXXX
+- XXXXX... VIVE, Version
+  - resolution: XXXX
+  - tracking via... XXXX
 
-> - XXXXX... VIVE controller, Version
+- XXXXX... VIVE controller, Version
 
-> - XXXXX... Unity 2017.4.1f
-> - STEAM XXXXX
+- XXXXX... Unity 2017.4.1f
+- STEAM XXXXX
 
-
-    - ....
 
 The software models of the different Ames Room set-ups are attached in the XXXXX folder (LINK)
-
-
 
 As described above, our main effort in this course so far and specifically with the Ames Room DRI is the process of human perception in conjunction with Virtual Reality technology. 
 We focus our questions and experiment on how the Ames Room is perceived and which cues can be perceived and which cues and/or how many are necessary to "see through" the illusion.
@@ -84,22 +80,22 @@ This experiment will give the participant the possibility to play freeshot-baske
     
 Set-up:
     
-> + The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
++ The Ames Room will be set up with a basket in the (perceived) middle of the back wall and a resurecting ball at the predefined viewpoint for the DRI. 
 
-> + The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
++ The participant will be able to practise freeshots at the basket to familiarize himself with the VR technology (controller and glasses). The number of balls or the available time will be limited (tbd). 
         
-> + The ball will fall through the floor and not bounce in order to hide the specifications of the (tilted/angled) room floor.
++ The ball will fall through the floor and not bounce in order to hide the specifications of the (tilted/angled) room floor.
     
-> + After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
++ After the trial phase, the Ames Room will be reconfigured with 2 baskets, one close to each far corner of the room.
         
-> + The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
++ The participant will have to throw 10 (tdc) balls at each basket. All other settings will remain the same.
         
         
 Objectives:
 
-> + Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
-> + It is a two-stepped approach, im which first, he has to discover that the distances are not the same by the use of a moving and manipulateable object (ball), which offers additional cues (necessary strength, flight time of the ball, trajectory...). 
-> + Secondly, the experiemt aims at his ability to conclude that the (expected) different freethrow results and effort is indeed the result of a manipulated perception of the room. 
++ Our main objective for measurement in this experiment is supposed to be the participants depth perception, the ability to estimate distance (therefore translated to depth) and to realize that he has different distances due to a illusion. 
++ It is a two-stepped approach, im which first, he has to discover that the distances are not the same by the use of a moving and manipulateable object (ball), which offers additional cues (necessary strength, flight time of the ball, trajectory...). 
++ Secondly, the experiemt aims at his ability to conclude that the (expected) different freethrow results and effort is indeed the result of a manipulated perception of the room. 
 
 Method:
 
@@ -111,53 +107,53 @@ Method:
 
 Procedure:
 
-> + The participants will be given an introduction into the VR hardware and the operation with the hand-hold controllers. 
++ The participants will be given an introduction into the VR hardware and the operation with the hand-hold controllers. 
 
-> + No hint will be provided that the presented room could be anything other that it appears.
++ No hint will be provided that the presented room could be anything other that it appears.
 
-> + The participant will have limited, but sufficient time (tbd) to familiarize with the setting, equipment and throwing of the ball.
++ The participant will have limited, but sufficient time (tbd) to familiarize with the setting, equipment and throwing of the ball.
 
-> + After familiarization phase, the participant will be briefed on the task to throw the given number balls into the baskets.
++ After familiarization phase, the participant will be briefed on the task to throw the given number balls into the baskets.
 
-> + The number of achieved baskets will be counted.
++ The number of achieved baskets will be counted.
 
-> + Questions from a questionnaire will be asked concerning several aspects of the simulation and tasks (Questionnaire, see below).
++ Questions from a questionnaire will be asked concerning several aspects of the simulation and tasks (Questionnaire, see below).
 
 
 Questionnaire:
 
 The questions can be answered with yes/no, unless stated otherwise. The questions will be answered one after the other without going back to previous questions.
 
-> Perception of Immersion into a VR environment
+- Perception of Immersion into a VR environment
 
-> - I had the feeling of being inside a virtual, 3D room/environment.
-> - I had the feeling of a 2D/picture-like presentation only.
-> - The environment felt like it could be touched.
-> - It seemed realistic.
-> - It almost made me forget that I am in a real room/laboratory.
+  - I had the feeling of being inside a virtual, 3D room/environment.
+  - I had the feeling of a 2D/picture-like presentation only.
+  - The environment felt like it could be touched.
+  - It seemed realistic.
+  - It almost made me forget that I am in a real room/laboratory.
 
-> Operating in VR
+- Operating in VR
 
-> - The ball-throwing procedure is easy to understand 
-> - I had no problems operating with the hand-held controllers.
-> - It was hard to do repeatable ball shots on the same basket.
+  - The ball-throwing procedure is easy to understand 
+  - I had no problems operating with the hand-held controllers.
+  - It was hard to do repeatable ball shots on the same basket.
 
-> Depth Perception:
+- Depth Perception:
 
-> - The depth impression was realistic.
-> - The presented objects were realistic in size.
-> - The presented objects were realistic in behavior.
-> - I was able to roughly estime the distance from me towards the baskets.
-> - It was equally hard to score on both baskets. 
-> - Both baskets had the same distance to me.
-> - The left basket was roughly ___ ft away (insert estimated distance).
-> - The right basket was roughly ___ ft away (insert estimated distance).
-> - The room clearly had some unusual spacial traits.
+  - The depth impression was realistic.
+  - The presented objects were realistic in size.
+  - The presented objects were realistic in behavior.
+  - I was able to roughly estime the distance from me towards the baskets.
+  - It was equally hard to score on both baskets. 
+  - Both baskets had the same distance to me.
+  - The left basket was roughly ___ ft away (insert estimated distance).
+  - The right basket was roughly ___ ft away (insert estimated distance).
+  - The room clearly had some unusual spacial traits.
 
 Documentation:
 
-> - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
-> - The questionnaire will be performed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
+- Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
+- The questionnaire will be performed by the experiment personell and the yes/no and the estimate (in feet) will be written directly on the questionnaire. Depending on the size of the participants, these variables will be futher analyzed, depending on the respective content. 
  
  
  
@@ -171,38 +167,38 @@ This experiment will simply consits of 2 seemingly equal rooms, which the partic
     
 Set-up:
     
-> + The participant will get 1 minute each (time tbd) to view/observe an Ames Room and  normal room. 
-> + There is only one detail which will be different in order to better distinguish between both after the observation. 
-> + After they have seen both, the get another minute (time tbd) each to verify their observations. 
++ The participant will get 1 minute each (time tbd) to view/observe an Ames Room and  normal room. 
++ There is only one detail which will be different in order to better distinguish between both after the observation. 
++ After they have seen both, the get another minute (time tbd) each to verify their observations. 
 
 
 Objectives:
 
-> + Our main objective in this experiment is the validation of our Ames Room construct. Can it be distinguished in direct comparison to a normal, equally looking room. 
-> + What are the cues that gave the DRI away, if any. 
++ Our main objective in this experiment is the validation of our Ames Room construct. Can it be distinguished in direct comparison to a normal, equally looking room. 
++ What are the cues that gave the DRI away, if any. 
 
 Method:
 
 - The participant can speak out about his experiences and his impression of the rooms while in VR. 
 - After the experiment, the participant will have to decide which room was the DRI, There are three options:
 
->> + Room 1
->> + Room 2
->> + I dont know.
+  - Room 1
+  - Room 2
+  -I dont know.
 
 - The participants then have to explain their decision/answer. This answer will also be recorded and analyzed. This will lead to either an improvement of the room or to the development of an quatitative questionnaire which incooperates the indentified (and other) mistakes in the construction. 
 
 Procedure:
 
-> + The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
++ The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
 
-> + The Set-up will be explained (time) and that therre will be 2 seemingly equal, but different rooms.
++ The Set-up will be explained (time) and that therre will be 2 seemingly equal, but different rooms.
 
 
 Documentation:
 
-> - Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
-> - The questionnaire will be performed by the experiment personell and the answers (to the three options and what gave it away) will be written directly on the questionnaire. 
+- Ideally the communication during the whole experiment is recorded and analyzed for information on depth, perception and workability.
+- The questionnaire will be performed by the experiment personell and the answers (to the three options and what gave it away) will be written directly on the questionnaire. 
  
  
  
@@ -215,13 +211,13 @@ This experiment will consits of the Ames Rooms, which the participant will obser
     
 Set-up:
     
-> + The participant will observe the Ames Room. 
-> + The size of the room will be changed while the participant is observing it.
++ The participant will observe the Ames Room. 
++ The size of the room will be changed while the participant is observing it.
 
 
 Objectives:
 
-> + Our main objective in this experiment is the validation/demonstration of the perception theory (see above in the theretical description of perception). 
++ Our main objective in this experiment is the validation/demonstration of the perception theory (see above in the theretical description of perception). 
 
 Method:
 
@@ -231,16 +227,14 @@ Method:
 
 Procedure:
 
-> + The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
++ The participants will be given a short introduction into the VR hardware. The use of the hand-hold controllers will not be necessary. 
 
-> + The Set-up will be explained (resizing) and the resizing will be introduced short after the participant is in VR and ready.
++ The Set-up will be explained (resizing) and the resizing will be introduced short after the participant is in VR and ready.
 
 
 Documentation:
 
-> - The communication during the whole experiment is recorded. The expected result is no perceived change.
+- The communication during the whole experiment is recorded. The expected result is no perceived change.
 
 ((Dr. Kider wants to know: What experiment did we set up, what do we want to measure, how do we measure it, how do we document it??))
-
-
 

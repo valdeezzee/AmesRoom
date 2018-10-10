@@ -9,6 +9,8 @@ public class MenuController : MonoBehaviour
 {
     private SteamVR_Controller.Device device;
     private Hand hand;
+    public bool allowScale = false;
+    public string onlineScene { get; set; }
     void Start()
     {
         hand = GetComponent<Hand>();
@@ -22,7 +24,7 @@ public class MenuController : MonoBehaviour
         if (hand.controller.GetPressDown(SteamVR_Controller.ButtonMask.ApplicationMenu))
             MenuButtonClicked();
         else if (hand.controller.GetPress(SteamVR_Controller.ButtonMask.Trigger) &&
-                hand.controller.GetTouchDown(SteamVR_Controller.ButtonMask.Touchpad))
+                hand.controller.GetTouchDown(SteamVR_Controller.ButtonMask.Touchpad) && allowScale)
         {
             Vector2 touchPad = (device.GetAxis(EVRButtonId.k_EButton_SteamVR_Touchpad));
 
@@ -37,6 +39,9 @@ public class MenuController : MonoBehaviour
                 RoomProperties.instance.SetRoomScale("ScaleDown");
             }
         }
+
+
+      
     }
 
     private void MenuButtonClicked()
@@ -45,4 +50,6 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         //throw new System.NotImplementedException();
     }
+
+    
 }

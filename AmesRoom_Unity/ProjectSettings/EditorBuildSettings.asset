@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_OurStuff/Scenes/AmesRoom_Sketchup_Joe.unity
     guid: e8a9acbd8828b294aada5463e1ec8c15
   - enabled: 1
-    path: Assets/_OurStuff/Scenes/AmesRoom_Sketchup_NormalRoom.unity
+    path: Assets/_OurStuff/Scenes/AmesRoom_Experiment_A.unity
+    guid: 886e44049ee94d34c923632042e5fa58
+  - enabled: 1
+    path: Assets/_OurStuff/Scenes/AmesRoom_Experiment_B1.unity
+    guid: 585b4972e82a5a447b2228db1892d864
+  - enabled: 1
+    path: Assets/_OurStuff/Scenes/AmesRoom_Experiment_B2.unity
     guid: 855ab6bbd460a934092084100d30b170
+  - enabled: 1
+    path: Assets/_OurStuff/Scenes/AmesRoom_Experiment_C.unity
+    guid: 26da5db6587434d4c909bebf508d2fee

@@ -1,22 +1,31 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Valve.VR;
 using Valve.VR.InteractionSystem;
 
-public class SceneChanger : MonoBehaviour {
+public class SceneChanger : MonoBehaviour
+{
 
     private int sceneIndex = 0;
     public List<string> sceneNames = new List<string>();
-	// Use this for initialization
-	void Start () {
+    public List<GameObject> pots = new List<GameObject>();
+    
+    // Use this for initialization
+    void Start()
+    {
         DontDestroyOnLoad(this);
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    }
 
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            SwitchPots();
+        }
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             sceneIndex--;
@@ -27,6 +36,17 @@ public class SceneChanger : MonoBehaviour {
             sceneIndex++;
             ChangeScene();
         }
+    }
+
+    private void SwitchPots()
+    {
+        if (pots.Count == 0)
+            return;
+        foreach (GameObject pot in pots)
+        {
+            pot.SetActive(!pot.activeSelf);
+        }
+
     }
 
     private void ChangeScene()

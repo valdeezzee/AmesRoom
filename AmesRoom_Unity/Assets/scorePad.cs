@@ -2,24 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class scorePad : MonoBehaviour {
-    public enum ScorepadType { Left, Middle, Right};
+public class ScorePad : MonoBehaviour
+{   
 
     public ScorepadType pad;
+    private ScoresManager scoresManager;
 
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-
-    private void OnCollisionEnter(Collision collision)
+    // Use this for initialization
+    void Start()
     {
-        
+        scoresManager = FindObjectOfType<ScoresManager>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "ball")
+        {
+            scoresManager.UpdateScore(pad);
+            Respawn ball = other.GetComponent<Respawn>();
+            if (ball != null)
+                ball.ResetBall();
+        }
     }
 }
+
+public enum ScorepadType { Left, Middle, Right };

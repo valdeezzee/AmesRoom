@@ -46,7 +46,9 @@ public class SceneChanger : MonoBehaviour
         {
             pot.SetActive(!pot.activeSelf);
         }
-
+        ScoresManager scoresManager = FindObjectOfType<ScoresManager>();
+        if (scoresManager != null)
+            scoresManager.ResetValues();
     }
 
     private void ChangeScene()

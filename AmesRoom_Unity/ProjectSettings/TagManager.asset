@@ -8,6 +8,8 @@ TagManager:
   - projectile
   - RoomProperties
   - ball
+  - floor
+  - floorReset
   layers:
   - Default
   - TransparentFX

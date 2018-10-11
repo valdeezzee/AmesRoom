@@ -8,11 +8,12 @@ public class ScoresManager : MonoBehaviour {
     public int leftPot, middlePot, rightPot;
     public Text leftPotText, middlePotText, rightPotText;
     public int ballLimit = 10;
-    private int ballCount = 0;
-	// Use this for initialization
-	void Start () {
+    public int ballCount = 0;
+    private GameObject[] allBalls;
+    // Use this for initialization
+    void Start () {
         leftPot = middlePot = rightPot = 0;
-
+        allBalls = GameObject.FindGameObjectsWithTag("ball");
     }
 	
 	// Update is called once per frame
@@ -50,7 +51,6 @@ public class ScoresManager : MonoBehaviour {
         ballCount++;
         if(ballCount >= ballLimit)
         {
-            GameObject[] allBalls = GameObject.FindGameObjectsWithTag("ball");
             foreach(GameObject ball in allBalls)
             {
                 ball.SetActive(false);
@@ -61,8 +61,8 @@ public class ScoresManager : MonoBehaviour {
     public void ResetValues()
     {
         leftPot = middlePot = rightPot = 0;
-        ballCount++;
-        GameObject[] allBalls = GameObject.FindGameObjectsWithTag("ball");
+        leftPotText.text = middlePotText.text = rightPotText.text = "0";
+        ballCount = 0;
         foreach (GameObject ball in allBalls)
         {
             ball.SetActive(true);

@@ -8,7 +8,7 @@ using Valve.VR.InteractionSystem;
 
 public class SceneChanger : MonoBehaviour
 {
-
+    // TODO: MAKE A SINGLETON
     private int sceneIndex = 0;
     public List<string> sceneNames = new List<string>();
     public List<GameObject> pots = new List<GameObject>();
@@ -48,7 +48,10 @@ public class SceneChanger : MonoBehaviour
         }
         ScoresManager scoresManager = FindObjectOfType<ScoresManager>();
         if (scoresManager != null)
+        {
             scoresManager.ResetValues();
+            print("Values reset");
+        }
     }
 
     private void ChangeScene()

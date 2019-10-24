@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e0720d59-47d3-4c62-aa0d-604b2ed80e29
+    AppIdChat: 304832bf-585d-4dd3-a12e-72c6469d4c6e
+    AppIdVoice: 905eaffd-4c47-488d-968f-d0239945814d
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    Protocol: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1

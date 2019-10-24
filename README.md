@@ -59,7 +59,7 @@ Hardware:
 - Headset: LHR-31C144F7 HTC Vive, 
 
 Software:
-- Unity 2017.4.1f
+- Unity 2018.4.2f1
 - STEAM Version 1537309452, STEAM VR date: 2018-09-18
 
 
